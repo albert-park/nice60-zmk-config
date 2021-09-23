@@ -13,7 +13,6 @@
 #include <dt-bindings/zmk/ext_power.h>
 
 &mt {
-    retro-tap;
     flavor = "tap-preferred";
 };
 
